@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickLook.Plugin.FontViewer", "QuickLook.Plugin.FontViewer.csproj", "{13B0CF5A-C6BB-466B-B456-33B463DD3ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B0CF5A-C6BB-466B-B456-33B463DD3ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B0CF5A-C6BB-466B-B456-33B463DD3ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B0CF5A-C6BB-466B-B456-33B463DD3ED4}.Debug|x86.ActiveCfg = Debug|x86
+		{13B0CF5A-C6BB-466B-B456-33B463DD3ED4}.Debug|x86.Build.0 = Debug|x86
+		{13B0CF5A-C6BB-466B-B456-33B463DD3ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B0CF5A-C6BB-466B-B456-33B463DD3ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B0CF5A-C6BB-466B-B456-33B463DD3ED4}.Release|x86.ActiveCfg = Release|x86
+		{13B0CF5A-C6BB-466B-B456-33B463DD3ED4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D1F2498-F7E8-4369-8365-30DCFEB11C95}
+	EndGlobalSection
+EndGlobal
