@@ -1,5 +1,5 @@
 # QuickLook.Plugin.FontViewer
-[![license](https://img.shields.io/github/license/jeremyhart/QuickLook.Plugin.FontViewer.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+![license](https://img.shields.io/github/license/jeremyhart/QuickLook.Plugin.FontViewer.svg)
 [![Github All Releases](https://img.shields.io/github/downloads/jeremyhart/QuickLook.Plugin.FontViewer/total.svg)](https://github.com/jeremyhart/QuickLook.Plugin.FontViewer/releases)
 
 A plugin for pre-viewing fonts in QuickLook: https://github.com/xupefei/QuickLook  
